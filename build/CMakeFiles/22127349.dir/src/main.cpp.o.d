@@ -1041,6 +1041,7 @@ CMakeFiles/22127349.dir/src/main.cpp.o: \
   /Users/minh10hd/Desktop/information-retrieval/include/ColorHistogram.hpp \
   /Users/minh10hd/Desktop/information-retrieval/include/ImageDatabase.hpp \
   /Users/minh10hd/Desktop/information-retrieval/include/KCluster.hpp \
+  /Users/minh10hd/Desktop/information-retrieval/include/ColorCorrelogram.hpp \
   /Users/minh10hd/Desktop/information-retrieval/include/Search.hpp \
   /Users/minh10hd/Desktop/information-retrieval/include/MAPEvaluator.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1/regex
