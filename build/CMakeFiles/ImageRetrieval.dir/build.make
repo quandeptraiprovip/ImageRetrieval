@@ -69,10 +69,24 @@ include CMakeFiles/ImageRetrieval.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ImageRetrieval.dir/flags.make
 
+CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
+CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/ColorCorrelogram.cpp
+CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/ColorCorrelogram.cpp
+
+CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/minh10hd/Desktop/information-retrieval/src/ColorCorrelogram.cpp > CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.i
+
+CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/minh10hd/Desktop/information-retrieval/src/ColorCorrelogram.cpp -o CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.s
+
 CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/ColorHistogram.cpp
 CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/ColorHistogram.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.i: cmake_force
@@ -86,7 +100,7 @@ CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.s: cmake_force
 CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/ImageDatabase.cpp
 CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/ImageDatabase.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.i: cmake_force
@@ -100,7 +114,7 @@ CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.s: cmake_force
 CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/KCluster.cpp
 CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/KCluster.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.i: cmake_force
@@ -111,10 +125,24 @@ CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/minh10hd/Desktop/information-retrieval/src/KCluster.cpp -o CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.s
 
+CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
+CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp
+CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp
+
+CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp > CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.i
+
+CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp -o CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.s
+
 CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/SIFT.cpp
 CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/SIFT.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.i: cmake_force
@@ -128,7 +156,7 @@ CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.s: cmake_force
 CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/Search.cpp
 CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/Search.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/Search.cpp.i: cmake_force
@@ -142,7 +170,7 @@ CMakeFiles/ImageRetrieval.dir/src/Search.cpp.s: cmake_force
 CMakeFiles/ImageRetrieval.dir/src/main.cpp.o: CMakeFiles/ImageRetrieval.dir/flags.make
 CMakeFiles/ImageRetrieval.dir/src/main.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/main.cpp
 CMakeFiles/ImageRetrieval.dir/src/main.cpp.o: CMakeFiles/ImageRetrieval.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ImageRetrieval.dir/src/main.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ImageRetrieval.dir/src/main.cpp.o -MF CMakeFiles/ImageRetrieval.dir/src/main.cpp.o.d -o CMakeFiles/ImageRetrieval.dir/src/main.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/main.cpp
 
 CMakeFiles/ImageRetrieval.dir/src/main.cpp.i: cmake_force
@@ -155,9 +183,11 @@ CMakeFiles/ImageRetrieval.dir/src/main.cpp.s: cmake_force
 
 # Object files for target ImageRetrieval
 ImageRetrieval_OBJECTS = \
+"CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o" \
+"CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o" \
 "CMakeFiles/ImageRetrieval.dir/src/main.cpp.o"
@@ -165,9 +195,11 @@ ImageRetrieval_OBJECTS = \
 # External object files for target ImageRetrieval
 ImageRetrieval_EXTERNAL_OBJECTS =
 
+ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/ColorCorrelogram.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/ColorHistogram.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/ImageDatabase.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/KCluster.cpp.o
+ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/MAPEvaluator.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/SIFT.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/Search.cpp.o
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/src/main.cpp.o
@@ -229,7 +261,7 @@ ImageRetrieval: /opt/homebrew/lib/libopencv_photo.4.11.0.dylib
 ImageRetrieval: /opt/homebrew/lib/libopencv_imgproc.4.11.0.dylib
 ImageRetrieval: /opt/homebrew/lib/libopencv_core.4.11.0.dylib
 ImageRetrieval: CMakeFiles/ImageRetrieval.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ImageRetrieval"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable ImageRetrieval"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ImageRetrieval.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
