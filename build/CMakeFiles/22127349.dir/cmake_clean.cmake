@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/22127349.dir/src/KCluster.cpp.o.d"
   "CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o"
   "CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o.d"
+  "CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o"
+  "CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o.d"
   "CMakeFiles/22127349.dir/src/SIFT.cpp.o"
   "CMakeFiles/22127349.dir/src/SIFT.cpp.o.d"
   "CMakeFiles/22127349.dir/src/Search.cpp.o"

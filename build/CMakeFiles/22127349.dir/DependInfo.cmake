@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/minh10hd/Desktop/information-retrieval/src/ImageDatabase.cpp" "CMakeFiles/22127349.dir/src/ImageDatabase.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/ImageDatabase.cpp.o.d"
   "/Users/minh10hd/Desktop/information-retrieval/src/KCluster.cpp" "CMakeFiles/22127349.dir/src/KCluster.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/KCluster.cpp.o.d"
   "/Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp" "CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o.d"
+  "/Users/minh10hd/Desktop/information-retrieval/src/ORBExtractor.cpp" "CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o.d"
   "/Users/minh10hd/Desktop/information-retrieval/src/SIFT.cpp" "CMakeFiles/22127349.dir/src/SIFT.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/SIFT.cpp.o.d"
   "/Users/minh10hd/Desktop/information-retrieval/src/Search.cpp" "CMakeFiles/22127349.dir/src/Search.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/Search.cpp.o.d"
   "/Users/minh10hd/Desktop/information-retrieval/src/main.cpp" "CMakeFiles/22127349.dir/src/main.cpp.o" "gcc" "CMakeFiles/22127349.dir/src/main.cpp.o.d"

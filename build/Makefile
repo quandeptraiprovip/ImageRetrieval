@@ -249,6 +249,30 @@ src/MAPEvaluator.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/22127349.dir/build.make CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.s
 .PHONY : src/MAPEvaluator.cpp.s
 
+src/ORBExtractor.o: src/ORBExtractor.cpp.o
+.PHONY : src/ORBExtractor.o
+
+# target to build an object file
+src/ORBExtractor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22127349.dir/build.make CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o
+.PHONY : src/ORBExtractor.cpp.o
+
+src/ORBExtractor.i: src/ORBExtractor.cpp.i
+.PHONY : src/ORBExtractor.i
+
+# target to preprocess a source file
+src/ORBExtractor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22127349.dir/build.make CMakeFiles/22127349.dir/src/ORBExtractor.cpp.i
+.PHONY : src/ORBExtractor.cpp.i
+
+src/ORBExtractor.s: src/ORBExtractor.cpp.s
+.PHONY : src/ORBExtractor.s
+
+# target to generate assembly for a file
+src/ORBExtractor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/22127349.dir/build.make CMakeFiles/22127349.dir/src/ORBExtractor.cpp.s
+.PHONY : src/ORBExtractor.cpp.s
+
 src/SIFT.o: src/SIFT.cpp.o
 .PHONY : src/SIFT.o
 
@@ -345,6 +369,9 @@ help:
 	@echo "... src/MAPEvaluator.o"
 	@echo "... src/MAPEvaluator.i"
 	@echo "... src/MAPEvaluator.s"
+	@echo "... src/ORBExtractor.o"
+	@echo "... src/ORBExtractor.i"
+	@echo "... src/ORBExtractor.s"
 	@echo "... src/SIFT.o"
 	@echo "... src/SIFT.i"
 	@echo "... src/SIFT.s"

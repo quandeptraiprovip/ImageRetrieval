@@ -139,10 +139,24 @@ CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/minh10hd/Desktop/information-retrieval/src/MAPEvaluator.cpp -o CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.s
 
+CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o: CMakeFiles/22127349.dir/flags.make
+CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/ORBExtractor.cpp
+CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o: CMakeFiles/22127349.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o -MF CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o.d -o CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/ORBExtractor.cpp
+
+CMakeFiles/22127349.dir/src/ORBExtractor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/22127349.dir/src/ORBExtractor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/minh10hd/Desktop/information-retrieval/src/ORBExtractor.cpp > CMakeFiles/22127349.dir/src/ORBExtractor.cpp.i
+
+CMakeFiles/22127349.dir/src/ORBExtractor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/22127349.dir/src/ORBExtractor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/minh10hd/Desktop/information-retrieval/src/ORBExtractor.cpp -o CMakeFiles/22127349.dir/src/ORBExtractor.cpp.s
+
 CMakeFiles/22127349.dir/src/SIFT.cpp.o: CMakeFiles/22127349.dir/flags.make
 CMakeFiles/22127349.dir/src/SIFT.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/SIFT.cpp
 CMakeFiles/22127349.dir/src/SIFT.cpp.o: CMakeFiles/22127349.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/22127349.dir/src/SIFT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/22127349.dir/src/SIFT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/22127349.dir/src/SIFT.cpp.o -MF CMakeFiles/22127349.dir/src/SIFT.cpp.o.d -o CMakeFiles/22127349.dir/src/SIFT.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/SIFT.cpp
 
 CMakeFiles/22127349.dir/src/SIFT.cpp.i: cmake_force
@@ -156,7 +170,7 @@ CMakeFiles/22127349.dir/src/SIFT.cpp.s: cmake_force
 CMakeFiles/22127349.dir/src/Search.cpp.o: CMakeFiles/22127349.dir/flags.make
 CMakeFiles/22127349.dir/src/Search.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/Search.cpp
 CMakeFiles/22127349.dir/src/Search.cpp.o: CMakeFiles/22127349.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/22127349.dir/src/Search.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/22127349.dir/src/Search.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/22127349.dir/src/Search.cpp.o -MF CMakeFiles/22127349.dir/src/Search.cpp.o.d -o CMakeFiles/22127349.dir/src/Search.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/Search.cpp
 
 CMakeFiles/22127349.dir/src/Search.cpp.i: cmake_force
@@ -170,7 +184,7 @@ CMakeFiles/22127349.dir/src/Search.cpp.s: cmake_force
 CMakeFiles/22127349.dir/src/main.cpp.o: CMakeFiles/22127349.dir/flags.make
 CMakeFiles/22127349.dir/src/main.cpp.o: /Users/minh10hd/Desktop/information-retrieval/src/main.cpp
 CMakeFiles/22127349.dir/src/main.cpp.o: CMakeFiles/22127349.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/22127349.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/22127349.dir/src/main.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/22127349.dir/src/main.cpp.o -MF CMakeFiles/22127349.dir/src/main.cpp.o.d -o CMakeFiles/22127349.dir/src/main.cpp.o -c /Users/minh10hd/Desktop/information-retrieval/src/main.cpp
 
 CMakeFiles/22127349.dir/src/main.cpp.i: cmake_force
@@ -188,6 +202,7 @@ CMakeFiles/22127349.dir/src/main.cpp.s: cmake_force
 "CMakeFiles/22127349.dir/src/ImageDatabase.cpp.o" \
 "CMakeFiles/22127349.dir/src/KCluster.cpp.o" \
 "CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o" \
+"CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o" \
 "CMakeFiles/22127349.dir/src/SIFT.cpp.o" \
 "CMakeFiles/22127349.dir/src/Search.cpp.o" \
 "CMakeFiles/22127349.dir/src/main.cpp.o"
@@ -200,6 +215,7 @@ CMakeFiles/22127349.dir/src/main.cpp.s: cmake_force
 22127349: CMakeFiles/22127349.dir/src/ImageDatabase.cpp.o
 22127349: CMakeFiles/22127349.dir/src/KCluster.cpp.o
 22127349: CMakeFiles/22127349.dir/src/MAPEvaluator.cpp.o
+22127349: CMakeFiles/22127349.dir/src/ORBExtractor.cpp.o
 22127349: CMakeFiles/22127349.dir/src/SIFT.cpp.o
 22127349: CMakeFiles/22127349.dir/src/Search.cpp.o
 22127349: CMakeFiles/22127349.dir/src/main.cpp.o
@@ -261,7 +277,7 @@ CMakeFiles/22127349.dir/src/main.cpp.s: cmake_force
 22127349: /opt/homebrew/lib/libopencv_imgproc.4.11.0.dylib
 22127349: /opt/homebrew/lib/libopencv_core.4.11.0.dylib
 22127349: CMakeFiles/22127349.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable 22127349"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/minh10hd/Desktop/information-retrieval/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable 22127349"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/22127349.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
